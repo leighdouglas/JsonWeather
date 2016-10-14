@@ -1,0 +1,36 @@
+[
+  {
+    "dt": 1476424800,
+    "main": {
+      "temp": 277.0,
+      "temp_min": 276.998,
+      "temp_max": 277,
+      "pressure": 1004.77,
+      "sea_level": 1040.04,
+      "grnd_level": 1004.77,
+      "humidity": 80,
+      "temp_kf": 1
+    },
+    "weather": [
+      {
+        "id": 801,
+        "main": "Clouds",
+        "description": "few clouds",
+        "icon": "02n"
+      }
+    ],
+    "clouds": {
+      "all": 24
+    },
+    "wind": {
+      "speed": 1.32,
+      "deg": 58.001
+    },
+    "rain": {
+    },
+    "sys": {
+      "pod": "n"
+    },
+    "dt_txt": "2016-10-14 06:00:00"
+  }
+]
