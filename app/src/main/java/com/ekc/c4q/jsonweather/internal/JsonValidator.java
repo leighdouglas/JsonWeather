@@ -12,7 +12,7 @@ import java.lang.reflect.Field;
  * Validates in class exercise java objects against the respective json.
  */
 public class JsonValidator {
-  private static final Gson GSON = new Gson();
+  static final Gson GSON = new Gson();
 
   /**
    * Naive validator who assumes any field that is a default value is invalid. So please use json
