@@ -5,4 +5,12 @@ public class Weather {
   String main;
   String description;
   String icon;
+
+  public String getMain(){
+    return this.main;
+  }
+
+  public String getDescription(){
+    return this.description;
+  }
 }
